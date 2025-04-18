@@ -2,7 +2,7 @@
 
 <img height="300px" alt="SolPick Logo" src="./logo/logo.png">
 
-<i>스마트 식생활 관리 서비스를 위한 ReciPICK X 신한카드 제휴 카드</i>
+<p>스마트 식생활 관리 서비스를 위한 ReciPICK X 신한카드 제휴 카드</p>
 
 <p>
   <a href="#프로젝트-소개">📌 프로젝트 소개</a> •
@@ -30,7 +30,7 @@
 **2025.02 ~ 2025.03**
 
 ### 🎬 시연 영상
-[👉 SOL Pick 시연 영상]()
+[👉 SOL Pick 시연 영상](https://drive.google.com/file/d/1ljqHAggPg_jTUfHZYv4FpAwtfSR78xi2/view?usp=drive_link)
 
 ---
 
@@ -45,11 +45,81 @@
 - Sol Pick 신용카드 발급 기능
 - 사용자 맞춤 카드 디자인
 - 실사용 기반 포인트 적립
+  
+  <a href="https://drive.google.com/file/d/1sxSV9yMUW_lTljGChQpi8jeh2GN2ifM7/view?usp=drive_link">👉 카드 서비스 기능 시연 영상</a>
+  
+  <table>
+    <tr>
+      <td align="center" width="320"><b>카드 탭 화면</b></td>
+      <td align="center" width="320"><b>카드 발급 및 디자인 선택</b></td>
+    </tr>
+    <tr>
+      <td align="center" height="450">
+        <img width="250" alt="카드 탭 화면" src="https://github.com/user-attachments/assets/c4db2b2c-3611-4f8c-b994-a8bf7b5a8374" />
+      </td>
+      <td align="center" height="450">
+        <img width="250" alt="카드 발급 및 디자인 선택" src="https://github.com/user-attachments/assets/ff6eced9-ce2f-4cb1-ad53-d46710153c6e" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="320"><b>본인인증</b></td>
+      <td align="center" width="320"><b>약관동의, 신용정보확인, 주소선택, 발급완료</b></td>
+    </tr>
+    <tr>
+      <td align="center" height="450">
+        <img width="250" alt="본인인증" src="https://github.com/user-attachments/assets/40df2de1-eaf4-4eaf-8bda-d76b1c07bb1b" />
+      </td>
+      <td align="center" height="450">
+        <img width="250" alt="약관동의, 신용정보확인, 주소선택, 발급완료" src="https://github.com/user-attachments/assets/faa283dd-6e5b-4934-bc9f-3584b834dafb" />
+      </td>
+    </tr>
+  </table>
+
 
 ### 3. 🎮 포인트 적립형 미니게임
 - 귀여운 고양이 밥주기
 - 냉장고 속 재료 탐험
 - 카드 뒤집기 게임으로 포인트 획득
+  
+  <a>[👉 **미니게임 기능** 시연 영상](https://drive.google.com/file/d/1Oru9-WeEDpvq2OFOO7qzkbP3Xs4HDrFm/view?usp=drive_link)</a>
+
+  <table>
+    <tr>
+      <td align="center" width="250"><b>레시피 선택 화면</b></td>
+      <td align="center" width="250"><b>미니게임 인사 화면</b></td>
+      <td align="center" width="250"><b>미니게임 안내 화면</b></td>
+    </tr>
+    <tr>
+      <td align="center" height="450">
+        <img width="250" alt="카드 서비스 - 레시피 선택" src="https://github.com/user-attachments/assets/6bc0ccda-1084-48c3-965c-ad3364893b50" />
+      </td>
+      <td align="center" height="450">
+        <img width="250" alt="1-1_미니게임_인사" src="https://github.com/user-attachments/assets/7fae9f91-ddf0-4b91-ba1b-103ffe299092" />
+      </td>
+      <td align="center" height="450">
+        <img width="250" alt="카드 서비스 - 안내" src="https://github.com/user-attachments/assets/7f112348-8480-4a4c-8ed4-2e195a9cc778" />
+      </td>
+  
+    </tr>
+    <tr>
+      <td align="center" width="250">미니게임 메인 화면</td>
+      <td align="center" width="250"><b>사료받기(카드 뒤집기 게임)</b></td>
+      <td align="center" width="250"><b>보관함</b></td>
+    </tr> 
+    <tr>
+      <td align="center" height="450">
+        <img width="250" alt="카드 서비스 - 메인 화면" src="https://github.com/user-attachments/assets/135fa2f8-6a72-48f3-a304-bc23395a3391" />
+      </td>
+      <td align="center" height="450">
+        <img width="250" alt="카드 서비스 - 카드 뒤집기 게임" src="https://github.com/user-attachments/assets/b63ad49b-970a-4a97-9b9d-8b88c8a53142" />
+      </td>
+      <td align="center" height="450">
+        <img width="250" alt="카드 서비스 - 보관함" src="https://github.com/user-attachments/assets/eaf52909-4515-4b9b-85fe-4a1b1e87c1bc" />
+      </td>
+      <td align="center" height="450"></td>
+    </tr>
+  </table>
+
 
 ### 4. 🧊 스마트 냉장고
 - 직관적 냉장고 UI
