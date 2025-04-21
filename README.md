@@ -230,6 +230,9 @@
 - 📙 [화면 설계서](https://www.figma.com/design/03hW9tGPp8Rp1ga9zHQSdZ/SOL-Pick---%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C?node-id=0-1&t=4wjCDYybHG1PS7Pa-1)
 - 📘 [기능 명세서](https://chloekim99.notion.site/19b341dc2a9380a0ad69d45318d00af5?v=19b341dc2a93812babc0000cb8f89373)
 - 📗 [API 명세서](https://chloekim99.notion.site/19e341dc2a9380dab3dbfbef4ca1dc06?v=19e341dc2a9381b3b442000c7402b403&pvs=4)
+- 📋 메뉴 구조도<br/>
+  <img width="800" alt="SOL Pick_메뉴구조도" src="https://github.com/user-attachments/assets/2b3e9369-cae5-4e47-a028-231a91008104" />
+
 
 ---
 
