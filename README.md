@@ -37,15 +37,40 @@
 
 ## ✨ 주요 기능
 
-### 1. 🔗 플랫폼 연동
+### 1. 👥 사용자 상태 기반 맞춤형 UI
+- 사용자 인증 흐름에 따른 동적 라우팅
+- 시간 기반 다이나믹 콘텐츠 <br/>
+
+  <table>
+    <tr>
+      <td align="center" width="320"><b>온보딩</b></td>
+      <td align="center" width="320"><b>로그인</b></td>
+      <td align="center" width="320"><b>홈</b></td>
+    </tr>
+    <tr>
+      <td align="center" height="450">
+        <img width="250" alt="온보딩" src="https://github.com/user-attachments/assets/2830632a-18e0-4122-a755-1ed3f63241b3" />
+      </td>
+      <td align="center" height="450">
+        <img width="250" alt="로그인" src="https://github.com/user-attachments/assets/aa2796b4-debe-4226-ac00-1a8bea8b39c1" />
+      </td>
+      <td align="center" height="450">
+        <img width="250" alt="홈" src="https://github.com/user-attachments/assets/ef88ae92-7c2b-4e5b-a0f4-d24ca2d09bf9" />
+      </td>
+    </tr>
+  </table>
+
+### 2. 🔗 플랫폼 연동
 - ReciPICK ↔ SOL Pick 통합 인증 시스템
 - 주문 및 결제 시스템 연계
 - ReciPICK 포인트 통합 적립
 
-### 2. 💳 카드 서비스
+  <a href="https://drive.google.com/file/d/1ilDyvP5XAKyYKD8VeopQ2gZLcXBTNzlI/view?usp=sharing">👉 플랫폼 연동 시연 영상</a>
+
+### 3. 💳 카드 서비스
 - Sol Pick 신용카드 발급 기능
 - 사용자 맞춤 카드 디자인
-- 실사용 기반 포인트 적립
+- 실사용 기반 포인트 적립 <br/>
   
   <a href="https://drive.google.com/file/d/1sxSV9yMUW_lTljGChQpi8jeh2GN2ifM7/view?usp=drive_link">👉 카드 서비스 기능 시연 영상</a>
   
@@ -77,12 +102,12 @@
   </table>
 
 
-### 3. 🎮 포인트 적립형 미니게임
+### 4. 🎮 포인트 적립형 미니게임
 - 고양이 밥주기 기능
 - 식재료 탐색하기 기능
 - 카드 뒤집기 게임을 통해 사료 받기
 - 선택한 레시피 완성 시 포인트 획득
-- 보관함에서 완성한 레시피 목록 확인
+- 보관함에서 완성한 레시피 목록 확인 <br/>
   
   <a href="https://drive.google.com/file/d/1Oru9-WeEDpvq2OFOO7qzkbP3Xs4HDrFm/view?usp=drive_link">👉 미니게임 기능 시연 영상</a>
 
@@ -105,7 +130,7 @@
     </tr>
     <tr>
       <td align="center" width="250"><b>미니게임 메인 화면</b></td>
-      <td align="center" width="250"><b>사료받기(카드 뒤집기 게임)</b></td>
+      <td align="center" width="250"><b>사료 받기(카드 뒤집기 게임)</b></td>
       <td align="center" width="250"><b>보관함</b></td>
     </tr> 
     <tr>
@@ -122,15 +147,55 @@
   </table>
 
 
-### 4. 🧊 스마트 냉장고
+### 5. 🧊 스마트 냉장고
 - 직관적 냉장고 UI
 - 영수증 OCR 등록
-- 유통기한 알림 기능
+- 유통기한 알림 기능 <br/>
 
-### 5. 🍽 레시피 서비스
+  <a href="https://drive.google.com/file/d/1TOSVVdFOkwOXKyjnoctatur3Ix-r34ZW/view?usp=sharing">👉 스마트 냉장고 기능 시연 영상</a>
+
+  <table>
+    <tr>
+      <td align="center" width="250"><b>냉장고 탭</b></td>
+      <td align="center" width="250"><b>식재료 수정</b></td>
+      <td align="center" width="250"><b>식재료 삭제</b></td>
+    </tr>
+    <tr>
+      <td align="center" height="450">
+        <img width="250" alt="냉장고 탭" src="https://github.com/user-attachments/assets/1ddc6fbf-dfbf-4788-bd9f-f2c28f88084a" />
+      </td>
+      <td align="center" height="450">
+        <img width="250" alt="식재료 수정" src="https://github.com/user-attachments/assets/f4e06c93-9ac2-46d8-adf7-7870bf334a2e" />
+      </td>
+      <td align="center" height="450">
+        <img width="250" alt="식재료 삭제" src="https://github.com/user-attachments/assets/2a57a314-a864-4630-9fb6-d0daa65502ba" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250"><b>식재료 직접 등록</b></td>
+      <td align="center" width="250"><b>식재료 영수증 등록</b></td>
+      <td align="center" width="250"><b>유통기한 알림</b></td>
+    </tr> 
+    <tr>
+      <td align="center" height="450">
+        <img width="250" alt="식재료 직접 등록" src="https://github.com/user-attachments/assets/1e83465c-de99-4f60-ae36-7b867cbea624" />
+      </td>
+      <td align="center" height="450">
+        <img width="250" alt="식재료 영주증 등록" src="https://github.com/user-attachments/assets/cfc5423b-07ce-4b16-8308-50fc814b476a" />
+      </td>
+      <td align="center" height="450">
+        <img width="250" alt="유통기한 알림" src="https://github.com/user-attachments/assets/9c051d06-b477-422f-98ab-185b5cd40f0d" />
+      </td>
+    </tr>
+  </table>
+
+### 6. 🍽 레시피 서비스
 - 알러지/식재료 기반 **AI 레시피 추천**
 - 일주일 식단 구성 자동 제안
 - 친구와 함께 요리하기
+
+  <a href="https://drive.google.com/file/d/10qNuGThDgfvXtx1HB24DlqSMhwFgRrLi/view?usp=sharing">👉 레시피 서비스 시연 영상</a>
+  
 
 ---
 
@@ -239,7 +304,7 @@
 ## 🤝 협업
 
 ### 📋 Notion을 활용한 프로젝트 관리
-[팀 프로젝트 노션 페이지](https://chloekim99.notion.site/DS-SW-4-7-1-1d2341dc2a9380ef9fabcb2957e56851)
+[팀 프로젝트 노션 페이지](https://chloekim99.notion.site/DS-SW-4-7-1-144341dc2a9380b28c7ad1a0e69ab591)
 
 <table>
   <tr>
