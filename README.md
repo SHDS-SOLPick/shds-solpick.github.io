@@ -33,6 +33,10 @@
 ### 🎬 시연 영상
 [👉 SOL Pick 시연 영상](https://drive.google.com/file/d/1ljqHAggPg_jTUfHZYv4FpAwtfSR78xi2/view?usp=drive_link)
 
+### 💾 Repository
+[🎨 SOL Pick Frontend Repository](https://github.com/SHDS-SOLPick/sol-pick-fe/tree/main) <br/><br/>
+[🔙 SOL Pick Backend Repository](https://github.com/SHDS-SOLPick/sol-pick-be)
+
 ---
 
 ## ✨ 주요 기능
