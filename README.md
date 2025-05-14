@@ -296,7 +296,7 @@
 
 ## 📄 문서
 
-- 📕 [ERD 설계도](https://www.erdcloud.com/d/ydoYdYqYkTHm9RWGa)
+- 📕 [ERD 설계도](https://www.erdcloud.com/d/gcDtQjFwdT2wfwoYe)
 - 📙 [화면 설계서](https://www.figma.com/design/03hW9tGPp8Rp1ga9zHQSdZ/SOL-Pick---%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C?node-id=0-1&t=4wjCDYybHG1PS7Pa-1)
 - 📘 [기능 명세서](https://chloekim99.notion.site/19b341dc2a9380a0ad69d45318d00af5?v=19b341dc2a93812babc0000cb8f89373)
 - 📗 [API 명세서](https://chloekim99.notion.site/19e341dc2a9380dab3dbfbef4ca1dc06?v=19e341dc2a9381b3b442000c7402b403&pvs=4)
